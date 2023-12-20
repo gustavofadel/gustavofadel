@@ -2,13 +2,15 @@
 
 ## 🧭 About Me
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="275" src="https://camo.githubusercontent.com/74d059f966f76c943415f2bc612b3238d61861ed434890127a5f51ce5128955d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966" />
 
 - 📚 Information System undergraduate at UEA.
 - 🕹️ I'm currently working on <a href="https://www.luduslab.org/">LUDUS Lab</a>
 - 🌱 I’m currently studying **TypeScript**, **ReactJS**, **NodeJS** and **C#**.
 - 💬 Ask me about **any technology**; if I don't know it, I'll be willing to learn it.
 - ⚡ Fun fact: I'm an anime enthusiast and I started learning japanese because of it.
+
+<br />
 
 ## 🛠️ My Tech Stacks
 
@@ -30,6 +32,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
+<br />
+
 ## 📊 My Activities
 
 <a href="https://github.com/gustavofadel">
@@ -38,6 +42,8 @@
 <a href="https://github.com/gustavofadel">
   <img align="center" alt="gustavofadel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofadel&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
+
+<br />
 
 ## 📫 Socials
 
