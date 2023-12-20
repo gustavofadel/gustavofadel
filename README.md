@@ -4,9 +4,9 @@
 
 <img align="right" width="275" src="https://camo.githubusercontent.com/74d059f966f76c943415f2bc612b3238d61861ed434890127a5f51ce5128955d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966" />
 
-- 📚 Information System undergraduate at UEA.
+- 📚 Information Systems undergraduate at UEA.
 - 🕹️ I'm currently working on <a href="https://www.luduslab.org/">LUDUS Lab</a>
-- 🌱 I’m currently studying **TypeScript**, **ReactJS**, **NodeJS** and **C#**.
+- 🌱 I’m currently studying **TypeScript**, **React**, **Node.js** and **C#**.
 - 💬 Ask me about **any technology**; if I don't know it, I'll be willing to learn it.
 - ⚡ Fun fact: I'm an anime enthusiast and I started learning japanese because of it.
 
