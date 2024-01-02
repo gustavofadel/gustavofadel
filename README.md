@@ -2,7 +2,7 @@
 
 ## 🧭 About Me
 
-<img align="right" width="275" src="https://camo.githubusercontent.com/74d059f966f76c943415f2bc612b3238d61861ed434890127a5f51ce5128955d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966" />
+<img align="right" width="275" src="https://i.pinimg.com/originals/84/83/30/84833023393ec83dcec466b4007e64d3.gif" />
 
 - 📚 Information Systems undergraduate at UEA.
 - 🕹️ I'm currently working on <a href="https://www.luduslab.org/">LUDUS Lab</a>
