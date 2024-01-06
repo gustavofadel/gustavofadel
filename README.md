@@ -8,7 +8,7 @@
 - 🕹️ I'm currently working on <a href="https://www.luduslab.org/">LUDUS Lab</a>
 - 🌱 I’m currently studying **TypeScript**, **React**, **Node.js** and **C#**.
 - 💬 Ask me about **any technology**; if I don't know it, I'll be willing to learn it.
-- ⚡ Fun fact: I'm an anime enthusiast and I started learning japanese because of it.
+- ⚡ Fun fact: I'm an anime enthusiast and started learning japanese because of it.
 
 <br />
 
@@ -16,7 +16,6 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
