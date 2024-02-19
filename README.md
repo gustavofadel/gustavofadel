@@ -4,8 +4,8 @@
 
 <img align="right" width="275" src="https://i.pinimg.com/originals/84/83/30/84833023393ec83dcec466b4007e64d3.gif" />
 
-- 📚 Information Systems undergraduate at UEA.
 - 🕹️ I'm currently working on <a href="https://www.linkapital.com.br/">LinKapital</a>
+- 📚 Information Systems undergraduate at Amazonas State University.
 - 🌱 I’m currently studying **Spring**, **React** and **Node.js**.
 - 💬 Ask me about **any technology**; if I don't know it, I'll be willing to learn it.
 - ⚡ Fun fact: I'm an anime enthusiast and started learning japanese because of it.
