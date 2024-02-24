@@ -4,7 +4,7 @@
 
 <img align="right" width="275" src="https://i.pinimg.com/originals/84/83/30/84833023393ec83dcec466b4007e64d3.gif" />
 
-- 🕹️ I'm currently working on <a href="https://www.linkapital.com.br/">LinKapital</a>
+- 💻 Currently working at <a href="https://www.linkapital.com.br/">LinKapital</a>
 - 📚 Information Systems undergraduate at Amazonas State University.
 - 🌱 I’m currently studying **Spring**, **React** and **Node.js**.
 - 💬 Ask me about **any technology**; if I don't know it, I'll be willing to learn it.
